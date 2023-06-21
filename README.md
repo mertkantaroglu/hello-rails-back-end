@@ -1,9 +1,6 @@
-# Hello-Rails-Back-End
 # 📗 Table of Contents
 
-- [Hello-Rails-Back-End](#hello-rails-back-end)
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello Rails React ](#-hello-rails-react-)
+- [📖 Hello Rails Back End ](#-hello-rails-back-end-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -24,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Rails React <a name="about-project"></a>
+# 📖 Hello Rails Back End <a name="about-project"></a>
 
-**Hello Rails Back End** is a project using Ruby on Rails for backend as an API point to the front end for ### Hello-React-Front-End(https://github.com/mertkantaroglu/hello-react-front-end.git).
+**Hello Rails Back End** is a project using Ruby on Rails for the backend as an API point to the front end for [Hello-React-Front-End](https://github.com/mertkantaroglu/hello-react-front-end.git).
 
 ## 🛠 Built With <a name="built-with"></a>
 
