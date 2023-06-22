@@ -47,4 +47,3 @@ group :development do
 end
 
 gem 'rubocop'
-gem 'cors'
